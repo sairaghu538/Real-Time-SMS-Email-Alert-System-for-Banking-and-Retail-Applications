@@ -70,3 +70,13 @@ Step 7: Deploy and Integrate with Your Application
 
 ![Step 1_ Set Up AWS Account and SNS Service - visual selection (6)](https://github.com/user-attachments/assets/95194dcd-7218-4a8f-b16c-8ab8a705904b)
 
+Expected Results and Outcome
+Account Creation: Customers receive a welcome message via SMS and email.
+
+Transaction/Order Alert: Customers are notified about deposits, withdrawals, or completed orders.
+
+Balance/Inventory Update: Customers are informed when their balance (banking) or inventory levels (retail) change.
+
+Security Alerts: Users are alerted in case of failed login attempts or password reset requests.
+
+Promotions: Retail customers receive notifications about special offers, discounts, and sales.
